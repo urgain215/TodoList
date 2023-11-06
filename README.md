@@ -10,4 +10,4 @@
 
 ## Deploy
 
-https://todolist69.netlify.app/
+https://todolist-69.netlify.app/
