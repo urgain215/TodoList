@@ -10,4 +10,4 @@
 
 ## Deploy
 
-https://cloud-crud-app.netlify.app/
+https://todolist69.netlify.app/
