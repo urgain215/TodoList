@@ -10,5 +10,5 @@
 
 ## Deploy
 
-https://todolist-69.netlify.app/
+https://todolist-69.netlify.app/<br>
 http://todolist69.s3-website.ap-south-1.amazonaws.com/
